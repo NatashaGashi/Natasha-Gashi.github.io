@@ -26,8 +26,7 @@
 
 ---
 
-
-## <p align="center"> 🎯 Skills</p>
+## <p align="center"> Skills</p>
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/Programming-ff69b4?style=for-the-badge&logoColor=000000" alt="Programming"></td>
@@ -51,23 +50,23 @@
 ---
 
 
-## <p align="center">📂 Selected Projects</p>
+## <p align="center"> Selected Projects</p>
 
 - **Machine Learning & Optimization** – Python project applying ML algorithms with model tuning.  
-  [View Repo](link-to-repo)  
+  [View](link-to-repo)  
 
 - **Data Analysis & Visualization** – R project building interactive dashboards from real datasets.  
-  [View Repo](link-to-repo)  
+  [Viewo](link-to-repo)  
 
 - **Python Scripting & Notebooks** – Group project automating data workflows in Python.  
-  [View Repo](link-to-repo)  
+  [View](link-to-repo)  
 
 - **Dissertation** – End-to-end data project combining analysis, modeling, and visualization.  
-  [View Repo](link-to-repo)  
+  [View](link-to-repo)  
 
 ---
 
-## <p align="center">🔗 Connect</p>
+## <p align="center"> Connect</p>
 <p align="center">
   <a href="https://www.linkedin.com/in/natashagashi/">
     <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn">
