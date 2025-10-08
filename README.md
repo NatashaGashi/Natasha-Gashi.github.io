@@ -52,6 +52,7 @@
 
 ## <p align="center"> Selected Projects</p>
 
+- **University Projects**
 - **Machine Learning & Optimization** – Python project applying ML algorithms with model tuning.  
   [View](link-to-repo)  
 
@@ -64,6 +65,9 @@
 - **Dissertation** – End-to-end data project combining analysis, modeling, and visualization.  
   [View](link-to-repo)  
 
+- **Personal Projects**
+- - **Python NLP Sentiment Anaysis of Song Lyrics** –   
+  [View](link-to-repo)
 ---
 
 ## <p align="center"> Connect</p>
