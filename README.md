@@ -51,8 +51,9 @@
 
 ## <p align="center"> Selected Projects</p>
 
-- **PYTHON**
-- **Multi-Class Classification on Mental Health Data** - Comparative analysis of Logistic Regression, Random Forest, Decision Tree, and Complement Naive Bayes models applied to pre-labelled mental health text data using TF-IDF and Bag-of-Words feature extraction. [View Project](https://github.com/NatashaGashi/mental-health-multiclass-classification) 
+**PYTHON**
+
+**Multi-Class Classification on Mental Health Data** - Comparative analysis of Logistic Regression, Random Forest, Decision Tree, and Complement Naive Bayes models applied to pre-labelled mental health text data using TF-IDF and Bag-of-Words feature extraction. [View Project](https://github.com/NatashaGashi/mental-health-multiclass-classification) 
 
 
 **TBC**
