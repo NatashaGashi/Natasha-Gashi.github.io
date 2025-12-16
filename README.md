@@ -49,10 +49,13 @@
 
 ---
 
-
 ## <p align="center"> Selected Projects</p>
 
-- **University Projects**
+- **PYTHON**
+- **Multi-Class Classification on Mental Health Data** - Comparative analysis of Logistic Regression, Random Forest, Decision Tree, and Complement Naive Bayes models applied to pre-labelled mental health text data using TF-IDF and Bag-of-Words feature extraction. [View Project](https://github.com/NatashaGashi/mental-health-multiclass-classification) 
+
+
+**TBC**
 - **Machine Learning & Optimization** – Python project applying ML algorithms with model tuning.  
   [View](link-to-repo)  
 
@@ -60,9 +63,6 @@
   [Viewo](link-to-repo)  
 
 - **Python Scripting & Notebooks** – Group project automating data workflows in Python.  
-  [View](link-to-repo)  
-
-- **Dissertation** – End-to-end data project combining analysis, modeling, and visualization.  
   [View](link-to-repo)  
 
 - **Personal Projects**
