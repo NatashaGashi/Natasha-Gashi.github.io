@@ -52,7 +52,7 @@
 
 **[Multi-Class Classification on Mental Health Data](https://github.com/NatashaGashi/mental-health-multiclass-classification)** - Comparative analysis of Logistic Regression, Random Forest, Decision Tree, and Complement Naive Bayes models applied to pre-labelled mental health text data using TF-IDF and Bag-of-Words feature extraction.
 
-**[Sentiment Analysis on Covid Twitter Data](https://github.com/NatashaGashi/Covid-Tweets-Sentiment-Analysis.git)** - Predicting the sentiment of tweets related to COVID-19. More specifically, whether a tweet is expressing a negative, neutral, or positive opinion about the pandemic based off twitter data.**
+**[NLP Sentiment Analysis on Covid Twitter Data](https://github.com/NatashaGashi/Covid-Tweets-Sentiment-Analysis.git)** - Predicting the sentiment of tweets related to COVID-19. More specifically, whether a tweet is expressing a negative, neutral, or positive opinion about the pandemic based off twitter data.**
 
 ---
 
