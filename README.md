@@ -48,28 +48,14 @@
 
 
 ---
+## <p align="center"> Selected Python Projects</p> ##
 
-## <p align="center"> Selected Projects</p>
+**[Multi-Class Classification on Mental Health Data](https://github.com/NatashaGashi/mental-health-multiclass-classification)** - Comparative analysis of Logistic Regression, Random Forest, Decision Tree, and Complement Naive Bayes models applied to pre-labelled mental health text data using TF-IDF and Bag-of-Words feature extraction.
 
-**PYTHON**
+**[Sentiment Analysis on Covid Twitter Data](https://github.com/NatashaGashi/Covid-Tweets-Sentiment-Analysis.git)** - Predicting the sentiment of tweets related to COVID-19. More specifically, whether a tweet is expressing a negative, neutral, or positive opinion about the pandemic based off twitter data.**
 
-**Multi-Class Classification on Mental Health Data** - Comparative analysis of Logistic Regression, Random Forest, Decision Tree, and Complement Naive Bayes models applied to pre-labelled mental health text data using TF-IDF and Bag-of-Words feature extraction. [View Project](https://github.com/NatashaGashi/mental-health-multiclass-classification) 
-
-
-**TBC**
-- **Machine Learning & Optimization** – Python project applying ML algorithms with model tuning.  
-  [View](link-to-repo)  
-
-- **Data Analysis & Visualization** – R project building interactive dashboards from real datasets.  
-  [Viewo](link-to-repo)  
-
-- **Python Scripting & Notebooks** – Group project automating data workflows in Python.  
-  [View](link-to-repo)  
-
-- **Personal Projects**
-- - **Python NLP Sentiment Anaysis of Song Lyrics** –   
-  [View](link-to-repo)
 ---
+
 
 ## <p align="center"> Connect</p>
 <p align="center">
