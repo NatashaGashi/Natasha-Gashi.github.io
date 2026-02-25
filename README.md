@@ -61,15 +61,17 @@
 ---
 
 ## <p align="center"> Connect</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/natashagashi/">
     <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn">
+  </a>
+
   <a href="https://www.kaggle.com/yourusername">
     <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=ff69b4" alt="Kaggle">
   </a>
-  </a>
-  <a href="[https://github.com/NatashaGashi](https://github.com/NatashaGashi/Natasha-Gashi.github.io)">
+
+  <a href="https://github.com/NatashaGashi">
     <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub">
   </a> 
 </p>
-
