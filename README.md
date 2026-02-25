@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=ff69b4" alt="Kaggle">
   </a>
   </a>
-  <a href="https://github.com/NatashaGashi">
+  <a href="[https://github.com/NatashaGashi](https://github.com/NatashaGashi/Natasha-Gashi.github.io)">
     <img src="https://img.shields.io/badge/GitHub-ff69b4?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub">
   </a> 
 </p>
