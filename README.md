@@ -56,6 +56,8 @@
 
 **[Loan Approval Prediction with Machine Learning](https://github.com/NatashaGashi/Loan-Approval-Prediction-with-Machine-Learning.git)** - End-to-end loan approval analysis using Random Forest and XGBoost (with hypertuning), focusing on class imbalance, model performance, and the balance between risk and approvals.
 
+**[Network Performance Clusering Analysis](https://github.com/NatashaGashi/network-performance-clustering-analysis.git)** - Comparative unsupervised learning analysis of network performance data using K-Means, DBSCAN, and Agglomerative clustering. Includes end-to-end data cleaning, feature analysis, clustering evaluation, and Genetic Algorithm optimisation for enhanced cluster performance.
+
 ---
 
 ## <p align="center"> Connect</p>
